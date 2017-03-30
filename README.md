@@ -6,16 +6,16 @@ A group project carried out on a dataset freely available on Kaggle https://www.
 
 Fields in the dataset include:
 
-Employee satisfaction level
-Last evaluation
-Number of projects
-Average monthly hours
-Time spent at the company
-Whether they have had a work accident
-Whether they have had a promotion in the last 5 years
-Department
-Salary
-Whether the employee has left
+* Employee satisfaction level
+* Last evaluation
+* Number of projects
+* Average monthly hours
+* Time spent at the company
+* Whether they have had a work accident
+* Whether they have had a promotion in the last 5 years
+* Department
+* Salary
+* Whether the employee has left
 
 Trying to predict if the best and most experienced employees leave prematurely based on features listed above, using vanilla Neural Network techniques:
 
