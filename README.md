@@ -2,8 +2,7 @@
 # Human Resource Analytics-Kaggle-Dataset
 ## Authors - Ryan Nazareth and Hannes Draxl
 
-A group project carried out on a dataset freely available on Kaggle https://www.kaggle.com/c/two-sigma-connect-rental-listing-inquiries/data 
-
+A group project carried out on a dataset freely available on Kaggle https://www.kaggle.com/ludobenistant/d/ludobenistant/hr-analytics/hr-analytics 
 Fields in the dataset include:
 
 Employee satisfaction level
