@@ -22,7 +22,7 @@ Trying to predict if the best and most experienced employees leave prematurely b
 * SVM 
 * Multi Layer Perceptron with Backpropagation 
 
-The original dataset is stored in the 'KAggle Dataset' folder. The cleaned data and code is stored in the 'cleaned data' folder. All programming carried out in Matlab.
+The original dataset is stored in the 'Original Kaggle Dataset' folder. The cleaned data and code is stored in the 'cleaned data' folder. All programming carried out in Matlab.
 
 This work will also be ported into one of the open source deep learning frameworks - keras/tensor flow to run more sophistcated techniques not available in Matlab
 
